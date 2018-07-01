@@ -2,12 +2,12 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <sitemap>
-        <loc>https://github.com/strongSoda/hexo/post-sitemap.xml</loc>
+        <loc>http://yoursite.com/post-sitemap.xml</loc>
         <lastmod>2018-07-01T17:37:23.337Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>https://github.com/strongSoda/hexo/tag-sitemap.xml</loc>
+        <loc>http://yoursite.com/tag-sitemap.xml</loc>
         <lastmod>2018-07-01T17:37:23.337Z</lastmod>
     </sitemap>
 
